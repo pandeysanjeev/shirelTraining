@@ -1,0 +1,2 @@
+model_checkpoint_path: "dcscn_L8_F96to48_NIN_A64_PS_R1F32.ckpt"
+all_model_checkpoint_paths: "dcscn_L8_F96to48_NIN_A64_PS_R1F32.ckpt"
